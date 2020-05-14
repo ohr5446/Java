@@ -91,7 +91,7 @@ public class Ex04_Array {
 			System.out.println("numbers[] 평균 : " + avg);
 			
 			
-			
+			//깃허브 
 			
 			
 			
