@@ -6,7 +6,7 @@
 	Version : 1.4
 
 */
-
+// test
 package Java0514;
 
 public class Ex04_Array {
